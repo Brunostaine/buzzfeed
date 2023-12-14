@@ -1,8 +1,6 @@
-
 <h1 align="center">Buzzfeed</h1>
 
 ![Badge status](https://img.shields.io/static/v1?label=STATUS&message=FINALIZADO&color=green&style=for-the-badge)
-
 
 ## Descrição do projeto
 
@@ -10,7 +8,7 @@
 
 ## Funcionalidades do projeto
 
-- `Em breve..` 
+- `Quizz` : É um quizz de 10 perguntas para saber se você será um herói o um vilão, entre na brincadeira e responda as perguntas.
 
 ## 📁 Acesso ao projeto
 
@@ -30,4 +28,3 @@
 <img src="https://user-images.githubusercontent.com/87622645/157755137-8d22a951-d323-4c33-814e-c0351ebefafe.png" width=80><br>
 <sub>Bruno Staine Caires de Oliveira</sub><br>
 https://github.com/Brunostaine
-
