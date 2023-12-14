@@ -68,8 +68,6 @@
   margin-bottom: 16px;
 }
 
-.quizz_results p {}
-
 @media (min-width: 768px) {
   .quizz_questions {
     padding: 48px;
