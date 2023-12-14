@@ -1,55 +1,224 @@
 {
-  "title":"Você seria um heroi ou vilão ?",
-  "questions":[
+  "title": "Você seria um herói ou vilão?",
+  "questions": [
     {
-      "id":1,
-      "question": "Qual super poder você escolheria ?",
-      "options":[
-        {"id": 1, "name":"Raios-Lasers", "alias":"A"},
-        {"id": 2, "name":"Voar", "alias":"B"},
-        {"id": 3, "name":"Explodir coisas", "alias":"A"},
-        {"id": 4, "name":"Curar feridas", "alias":"B"},
-        {"id": 5, "name":"Soltar fogo pelas mãos", "alias":"A"}
+      "id": 1,
+      "question": "Qual super poder você escolheria?",
+      "options": [
+        {
+          "id": 1,
+          "name": "Raios-Lasers",
+          "alias": "A"
+        },
+        {
+          "id": 2,
+          "name": "Voar",
+          "alias": "B"
+        },
+        {
+          "id": 3,
+          "name": "Explodir coisas",
+          "alias": "A"
+        },
+        {
+          "id": 4,
+          "name": "Curar feridas",
+          "alias": "B"
+        },
+        {
+          "id": 5,
+          "name": "Soltar fogo pelas mãos",
+          "alias": "A"
+        }
       ]
     },
     {
-      "id":2,
-      "question": "Quem você salvaria primeiro ?",
-      "options":[
-        {"id": 1, "name":"Crianças", "alias":"A"},
-        {"id": 2, "name":"Idosos", "alias":"A"},
-        {"id": 3, "name":"Não saberia escolher", "alias":"B"}
+      "id": 2,
+      "question": "Quem você salvaria primeiro?",
+      "options": [
+        {
+          "id": 1,
+          "name": "Crianças",
+          "alias": "A"
+        },
+        {
+          "id": 2,
+          "name": "Idosos",
+          "alias": "A"
+        },
+        {
+          "id": 3,
+          "name": "Não saberia escolher",
+          "alias": "B"
+        }
       ]
     },
     {
-      "id":3,
-      "question": "Qual a sua maior preocupação ao enfretar outro super ser ?",
-      "options":[
-        {"id": 1, "name":"Não destruir prédios", "alias":"B"},
-        {"id": 2, "name":"Socar a cara do inimigo", "alias":"A"},
-        {"id": 3, "name":"Não sujar meu traje", "alias":"A"},
-        {"id": 4, "name":"Não deixar ninguém se ferir", "alias":"B"}
+      "id": 3,
+      "question": "Qual a sua maior preocupação ao enfrentar outro super ser?",
+      "options": [
+        {
+          "id": 1,
+          "name": "Não destruir prédios",
+          "alias": "B"
+        },
+        {
+          "id": 2,
+          "name": "Socar a cara do inimigo",
+          "alias": "A"
+        },
+        {
+          "id": 3,
+          "name": "Não sujar meu traje",
+          "alias": "A"
+        },
+        {
+          "id": 4,
+          "name": "Não deixar ninguém se ferir",
+          "alias": "B"
+        }
       ]
     },
     {
-      "id":4,
-      "question": "Qual o seu maior foco ?",
-      "options":[
-        {"id": 1, "name":"Ficar rico com poderes", "alias":"A"},
-        {"id": 2, "name":"Salvar a cidade", "alias":"B"}
+      "id": 4,
+      "question": "Qual o seu maior foco?",
+      "options": [
+        {
+          "id": 1,
+          "name": "Ficar rico com poderes",
+          "alias": "A"
+        },
+        {
+          "id": 2,
+          "name": "Salvar a cidade",
+          "alias": "B"
+        }
       ]
     },
     {
-      "id":5,
-      "question": "Qual o seu apelido de super ser ?",
-      "options":[
-        {"id": 1, "name":"O Terrivel", "alias":"A"},
-        {"id": 2, "name":"Amigo da vizinhança", "alias":"B"}
+      "id": 5,
+      "question": "Qual o seu apelido de super ser?",
+      "options": [
+        {
+          "id": 1,
+          "name": "O Terrível",
+          "alias": "A"
+        },
+        {
+          "id": 2,
+          "name": "Amigo da vizinhança",
+          "alias": "B"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "question": "Qual é o seu relacionamento com as autoridades?",
+      "options": [
+        {
+          "id": 1,
+          "name": "Colaboro e trabalho junto com elas",
+          "alias": "B"
+        },
+        {
+          "id": 2,
+          "name": "Ignoro as autoridades e faço o que eu quero",
+          "alias": "A"
+        },
+        {
+          "id": 3,
+          "name": "Mantenho uma relação neutra",
+          "alias": "B"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "question": "Como você lida com os danos colaterais causados por suas ações?",
+      "options": [
+        {
+          "id": 1,
+          "name": "Me esforço para minimizar ao máximo",
+          "alias": "B"
+        },
+        {
+          "id": 2,
+          "name": "Os danos são inevitáveis, não me importo",
+          "alias": "A"
+        },
+        {
+          "id": 3,
+          "name": "Compensar danos é uma prioridade para mim",
+          "alias": "B"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "question": "Qual é a sua motivação para usar seus poderes?",
+      "options": [
+        {
+          "id": 1,
+          "name": "Realizar meus desejos pessoais",
+          "alias": "A"
+        },
+        {
+          "id": 2,
+          "name": "Contribuir para o bem-estar da sociedade",
+          "alias": "B"
+        },
+        {
+          "id": 3,
+          "name": "Poder e controle sobre os outros",
+          "alias": "A"
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "question": "Como você prefere derrotar seus inimigos?",
+      "options": [
+        {
+          "id": 1,
+          "name": "Com estratégia e inteligência",
+          "alias": "B"
+        },
+        {
+          "id": 2,
+          "name": "Usando força bruta e poder destrutivo",
+          "alias": "A"
+        },
+        {
+          "id": 3,
+          "name": "Evitando confrontos diretos sempre que possível",
+          "alias": "B"
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "question": "Qual é a sua postura em relação aos segredos e identidade secreta?",
+      "options": [
+        {
+          "id": 1,
+          "name": "Mantenho minha identidade em segredo a qualquer custo",
+          "alias": "B"
+        },
+        {
+          "id": 2,
+          "name": "Não vejo problema em revelar minha identidade",
+          "alias": "A"
+        },
+        {
+          "id": 3,
+          "name": "Revelo minha identidade apenas para pessoas de confiança",
+          "alias": "B"
+        }
       ]
     }
   ],
-  "results":{
+  "results": {
     "A": "Você muito provavelmente seria um super vilão!",
-    "B": "Você muito provavelmente seria um super Herói!"
+    "B": "Você muito provavelmente seria um super herói!"
   }
 }
